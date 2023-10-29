@@ -20,7 +20,7 @@ Before using FarlightFixer, make sure you have the following:
 
 2. Extract the contents to a location of your choice.
 
-3. Double-click on the "FarlightFixer.bat" script to run it.
+3. Double-click on the "Farlight.bat" script to run it.
 
 ## How It Works
 
@@ -86,7 +86,7 @@ FarlightFixer fa quanto segue:
 
 ## Utilizzo
 
-1. Esegui lo script "FarlightFixer.bat".
+1. Esegui lo script "Farlight.bat".
 
 2. Lo script creerà un collegamento a Farlight 84 sul tuo desktop, e potrai utilizzare questo collegamento per avviare il gioco.
 
